@@ -1,0 +1,14 @@
+l1['bg'] = '#4EDE65'
+l2['bg'] = '#78F561'
+score2_label['bg'] = '#78F561'
+score1_label['bg'] = '#4EDE65'
+r1 = 120
+r2 = 120
+q = 300
+w = 150
+x1 = 10
+y1 = 10
+
+player1.place(x=0, y=r1, width=10, height=50)
+player2.place(x=590, y=r2, width=10, height=50)
+ball.place(x=q, y=w, width=10, height=10)
