@@ -1,0 +1,7 @@
+BOT_TOKEN = '5341817572:AAHcBFj34ll3Q1OGiiLAnlQZgdUXH-V-swU'
+ADMINS = ['585013942', '1050696532']
+HOST = '127.0.0.1'
+PGUSER = "postgres"
+DBNAME = "gameofteens"
+PGPASSWORD = "sdfsdftinh28"
+DBPORT = 5432
