@@ -4,7 +4,7 @@ from environs import Env
 env = Env()
 env.read_env()
 
-BOT_TOKEN = "5005663498:AAGK0RPXFXndmDuFRXDT_432RDgixLgTslQ"
+BOT_TOKEN = ""
 ADMINS = ['585013942']
 IP = "127.0.0.1"
 PGUSER = "postgres"
