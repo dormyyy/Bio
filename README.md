@@ -1,5 +1,5 @@
 # Bio
-всі проекти написані на python\n
+всі проекти написані на python
 calculator - калькулятор написаний за допомогою tkinter
 flappybird - кривенький flappy bird написаний за допомогою tkinter
 life_balance_wheel_bot - телеграмм-бот написаний для хакатону Game of Teens за допомогою aiogram, asyncio etc.
